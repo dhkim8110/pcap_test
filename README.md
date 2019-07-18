@@ -1,9 +1,9 @@
 # 공부내용
 
-struct Person {    // 구조체 정의
-    char name[20];        // 구조체 멤버 1
-    int age;              // 구조체 멤버 2
-    char address[100];    // 구조체 멤버 3
+struct Person {    
+    char name[20];         
+    int age;              
+   char address[100];    
 };
 
 
