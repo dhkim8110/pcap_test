@@ -1,10 +1,11 @@
-# pcap_test
+# 공부내용
 
 struct Person {    // 구조체 정의
     char name[20];        // 구조체 멤버 1
     int age;              // 구조체 멤버 2
     char address[100];    // 구조체 멤버 3
 };
+
 
 //구조체의 포인터 변수 동적선언.
 struct Person *p1 = malloc(sizeof(struct Person));
