@@ -6,6 +6,7 @@
 
 
 
+구조체 예시)
 
 struct Person {    
     char name[20];         
