@@ -6,9 +6,9 @@ struct Person {
    char address[100];    
 };
 
-
-구조체의 포인터 변수 동적선언.
 struct Person *p1 = malloc(sizeof(struct Person));
+구조체의 포인터 변수 동적선언.
+
 
 p1 -> name식으로 구조체의 멤버변수에 참조
 (*p1).name랑 같음.
