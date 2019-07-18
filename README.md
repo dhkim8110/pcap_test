@@ -1,5 +1,11 @@
 # 공부내용
 
+
+![Packet 구조](./image/Packet 구조.jpg)
+
+
+
+
 struct Person {    
     char name[20];         
     int age;              
