@@ -7,6 +7,7 @@ struct Person {
 };
 
 struct Person *p1 = malloc(sizeof(struct Person));
+
 구조체의 포인터 변수 동적선언.
 
 
