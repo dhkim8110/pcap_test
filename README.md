@@ -1,7 +1,8 @@
 # 공부내용
 
 
-![Packet 구조](./pcap_test/image/Packet 구조.jpg)
+![Packet 구조](https://user-images.githubusercontent.com/52531056/61441680-17ff6680-a981-11e9-9200-6559023c56ca.jpg)
+
 
 
 
