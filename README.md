@@ -1,7 +1,7 @@
 # 공부내용
 
 
-![Packet 구조](./image/Packet 구조.jpg)
+![Packet 구조](./pcap_test/image/Packet 구조.jpg)
 
 
 
